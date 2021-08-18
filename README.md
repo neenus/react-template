@@ -1,6 +1,6 @@
-# cra-template
+# ReactJS (create-react-app) template
 
-This is the a base react template for [Create React App](https://github.com/facebook/create-react-app) with clearned up react boilerplate code and following dependencies pre-installed:
+This is the a base react template for [Create React App](https://github.com/facebook/create-react-app) with cleaned up react boilerplate code and following dependencies pre-installed:
 ### Dependencies:
 - @material-ui/core
 - @material-ui/icons
