@@ -7,7 +7,7 @@ import reportWebVitals from "./reportWebVitals";
 
 const theme = createTheme({
   typography: {
-    fontFamily: "'Playfair Display', serif"
+    fontFamily: "'Roboto', sans-serif"
   }
 });
 
